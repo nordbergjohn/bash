@@ -5,7 +5,7 @@ A collection of useful bash scripts
 
 Visualise parallel tasks by providing taskParallelism.sh with start time/stop time/task name like this:
 
-./taskParallelism.sh 13:43 13:50:00 "Task 1" 13:47:24 13:49:10 "Task 2" 13:48:59 14:01:11 "Long taskname" 13:40:25 13:44:11 Task4
+./taskParallelism.sh 13:43:00 13:50:00 "Task 1" 13:47:24 13:49:10 "Task 2" 13:48:59 14:01:11 "Long taskname" 13:40:25 13:44:11 Task4
 
 ```
 00:00:00                                                                         00:20:46
